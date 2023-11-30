@@ -79,6 +79,10 @@ Experimentamos a programação em par no SR1 e demos continuidade no SR2, usamos
 <br>
 A divisão de papéis das duplas melhorou a qualidade e reduziu erros por mais que um estava sozinho, mas quando fomos alternando as duplas a dinâmica ficou muito interessante. Além disso, nos fortaleceu como grupo e abriu espaço para novos tipos de dinâmica na qual em alguns momentos ficamos programando em trio. Ao final, o código é mais eficiente e conseguimos maximizar o tempo de produção. A experiência destacou a eficácia da colaboração intensiva no desenvolvimento de software.
 
+#Protótipo de baixa fidadelidade
+* [Protótipo de baixa fidelidade(não foi alterado)](https://www.youtube.com/watch?v=k4ZHAhGwqZ4&ab_channel=MarceloCavalcanti)
+
+
 # Diagrama de Atividades SR2
 
 ![image](https://github.com/ArturSouto/G10/assets/134516887/33794e3b-9d58-43a1-949e-547eca726000)
